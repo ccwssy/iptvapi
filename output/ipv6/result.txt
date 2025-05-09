@@ -1,7 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-09 18:26:56,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
-
-💰央视付费频道,#genre#
+2025-05-10 06:22:06,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
 
 📡卫视频道,#genre#
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
@@ -17,13 +15,9 @@
 
 🌊港·澳·台,#genre#
 
-🎬电影频道,#genre#
-
 🪁动画频道,#genre#
 
 🎮游戏频道,#genre#
-
-🎵音乐频道,#genre#
 
 🏀体育频道,#genre#
 
@@ -114,25 +108,17 @@
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 
-☘️北京频道,#genre#
-
 ☘️上海频道,#genre#
 
 ☘️江苏频道,#genre#
 
 ☘️湖南频道,#genre#
 
-☘️湖北频道,#genre#
-
 ☘️广西频道,#genre#
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 
-☘️天津频道,#genre#
-
 ☘️四川频道,#genre#
-
-☘️福建频道,#genre#
 
 ☘️河南频道,#genre#
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -190,12 +176,6 @@
 偃师新闻,http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 
 ☘️河北频道,#genre#
-
-☘️山东频道,#genre#
-
-☘️山西频道,#genre#
-
-☘️安徽频道,#genre#
 
 ☘️吉林频道,#genre#
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8

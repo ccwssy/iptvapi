@@ -1,10 +1,7 @@
 🕘️更新时间,#genre#
-2025-05-09 18:26:56,http://wouu.net:9977/udp/239.93.0.180:5140
-
-💰央视付费频道,#genre#
+2025-05-10 06:22:05,http://wouu.net:9977/udp/239.93.1.106:5140
 
 📡卫视频道,#genre#
-北京卫视,http://wouu.net:9977/udp/239.93.0.180:5140
 安徽卫视,http://wouu.net:9977/udp/239.93.1.106:5140
 重庆卫视,http://wouu.net:9977/udp/239.93.1.107:5140
 东方卫视,http://wouu.net:9977/udp/239.93.0.123:5140
@@ -23,16 +20,12 @@
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
 
-🎬电影频道,#genre#
-
 🪁动画频道,#genre#
 青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140
 宝宝动画,http://wouu.net:9977/udp/239.93.0.147:5140
 
 🎮游戏频道,#genre#
 电竞天堂,http://wouu.net:9977/udp/239.93.1.135:5140
-
-🎵音乐频道,#genre#
 
 🏀体育频道,#genre#
 天元围棋,http://wouu.net:9977/udp/239.93.42.55:5140
@@ -42,59 +35,42 @@
 广东新闻,https://live.ximalaya.com/radio-first-page-app/live/245/64.m3u8?transcode=ts
 
 ☘️浙江频道,#genre#
-嘉兴新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
-嘉兴新闻综合,https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 嘉兴新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+嘉兴新闻综合,https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 嘉兴新闻综合,https://tvfile.scjgtv.cn:443/nmip-media/channellive/channel104126/playlist.m3u8&amp;quot;
-
-☘️北京频道,#genre#
+嘉兴新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 
 ☘️上海频道,#genre#
 东方财经,http://wouu.net:9977/udp/239.93.1.165:5140
-生活时尚,http://wouu.net:9977/udp/239.93.0.106:5140
 生活时尚,http://wouu.net:9977/udp/239.93.42.29:5140
 
 ☘️江苏频道,#genre#
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 
 ☘️湖南频道,#genre#
-湖南电视剧,http://175.155.106.72:89/live1/live1.m3u8
 金鹰纪实,http://wouu.net:9977/udp/239.93.0.130:5140
-
-☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
 
-☘️天津频道,#genre#
-
 ☘️四川频道,#genre#
+乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
 井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
-凉山新闻综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicdhttp://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
 剑阁综合,https://tvfile.scjgtv.cn/nmip-media/channellive/channel104126/playlist.m3u8
 四川科教,http://wouu.net:9977/udp/239.93.42.44:5140
 武胜综合,http://live2.gatv.com.cn:86/live/WS.m3u8
-沐川综合,rtmp://tv.mcrm.org.cn:1935/channellive/tv01?zsicd;http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8?zsicd
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
+金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 金川新闻综合,http://139.203.180.9:90/live/zhxw.m3u8
-
-☘️福建频道,#genre#
 
 ☘️河南频道,#genre#
 
 ☘️河北频道,#genre#
 石家庄新闻综合,http://nn.7x9d.cn/石家庄.php?id=4
 
-☘️山东频道,#genre#
-
-☘️山西频道,#genre#
-
-☘️安徽频道,#genre#
-
 ☘️吉林频道,#genre#
 
 ☘️内蒙古频道,#genre#
 内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-内蒙文体,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
 
 ☘️云南频道,#genre#
