@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-10 18:24:07,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
+2025-05-11 06:21:28,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
 
 📡卫视频道,#genre#
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
@@ -179,8 +179,6 @@
 
 ☘️吉林频道,#genre#
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-
-☘️内蒙古频道,#genre#
 
 ☘️云南频道,#genre#
 昆明公共,http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8
