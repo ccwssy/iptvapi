@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-11 18:23:18,http://wouu.net:9977/udp/239.93.1.106:5140
+2025-05-12 06:21:38,http://wouu.net:9977/udp/239.93.1.106:5140
 
 📡卫视频道,#genre#
 安徽卫视,http://wouu.net:9977/udp/239.93.1.106:5140
@@ -35,8 +35,8 @@
 
 ☘️浙江频道,#genre#
 嘉兴新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-嘉兴新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 嘉兴新闻综合,https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
+嘉兴新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 
 ☘️上海频道,#genre#
 生活时尚,http://wouu.net:9977/udp/239.93.42.29:5140
@@ -53,9 +53,9 @@
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
 井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 四川科教,http://wouu.net:9977/udp/239.93.42.44:5140
-沐川综合,rtmp://tv.mcrm.org.cn:1935/channellive/tv01?zsicd;http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8?zsicd
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 金川新闻综合,http://139.203.180.9:90/live/zhxw.m3u8
+金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 
 ☘️河南频道,#genre#
 
