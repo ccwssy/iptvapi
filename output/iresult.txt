@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-13 18:26:26,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
+2025-05-14 06:23:02,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
 
 📡卫视频道,#genre#
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
@@ -146,8 +146,6 @@
 四川科教,http://wouu.net:9977/udp/239.93.42.44:5140
 金川新闻综合,http://139.203.180.9:90/live/zhxw.m3u8
 
-☘️福建频道,#genre#
-
 ☘️河南频道,#genre#
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -209,5 +207,3 @@
 ☘️云南频道,#genre#
 昆明公共,http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8
 昆明科学教育,http://wshls.live.migucloud.com/live/ZBXWIMTD_C0_2/playlist.m3u8
-
-☘️青海频道,#genre#
