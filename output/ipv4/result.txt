@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2025-05-12 06:21:38,http://wouu.net:9977/udp/239.93.1.106:5140
+2025-05-14 06:23:02,http://wouu.net:9977/udp/239.93.1.106:5140
 
 📡卫视频道,#genre#
 安徽卫视,http://wouu.net:9977/udp/239.93.1.106:5140
 重庆卫视,http://wouu.net:9977/udp/239.93.1.107:5140
 东方卫视,http://wouu.net:9977/udp/239.93.0.123:5140
 东南卫视,http://wouu.net:9977/udp/239.93.0.42:5140
-甘肃卫视,http://wouu.net:9977/udp/239.93.0.81:5140
 广西卫视,http://wouu.net:9977/udp/239.93.42.46:5140
 河南卫视,http://zqh2333.top:2222/rtp/239.93.55.45:5140
 山东卫视,http://wouu.net:9977/udp/239.93.0.168:5140
@@ -35,8 +34,6 @@
 
 ☘️浙江频道,#genre#
 嘉兴新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-嘉兴新闻综合,https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
-嘉兴新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 
 ☘️上海频道,#genre#
 生活时尚,http://wouu.net:9977/udp/239.93.42.29:5140
@@ -50,17 +47,11 @@
 ☘️广西频道,#genre#
 
 ☘️四川频道,#genre#
-乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
 井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 四川科教,http://wouu.net:9977/udp/239.93.42.44:5140
-金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 金川新闻综合,http://139.203.180.9:90/live/zhxw.m3u8
-金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 
 ☘️河南频道,#genre#
-
-☘️河北频道,#genre#
-石家庄新闻综合,http://nn.7x9d.cn/石家庄.php?id=4
 
 ☘️吉林频道,#genre#
 
