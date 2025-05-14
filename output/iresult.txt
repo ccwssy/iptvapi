@@ -1,5 +1,8 @@
 🕘️更新时间,#genre#
-2025-05-14 06:23:02,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
+2025-05-14 18:25:43,http://wouu.net:9977/udp/239.93.0.184:5140
+
+📺央视频道,#genre#
+CCTV-1,http://wouu.net:9977/udp/239.93.0.184:5140
 
 📡卫视频道,#genre#
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
