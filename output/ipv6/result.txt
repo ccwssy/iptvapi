@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-02 07:10:39,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-02 19:37:08,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -76,6 +76,7 @@ CCTV-7,https://live.ottiptv.cc/mcp/cctv7.m3u8?userid=5559462299&sign=295c0cc863e
 CCTV-7,https://migu.188766.xyz/?migutoken=ff28d69d86f5ee7500345536f4260eb5&id=CCTV7&type=yy
 CCTV-7,https://live.ottiptv.cc/mcp/cctv7.m3u8?userid=5559462299&sign=ab6974301e70891ff00d787145cae1854e8cd7e0e3f17ce1c1a1970164a7f2f9ab26c2070270a7df6edfcbaf75b3869416552a7f8aedd2a809b080c7cfabe1dc288d92bfefbd74921b958c322f&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-7,https://migu.188766.xyz/?migutoken=6757f694affc30f6e62d2aa347467430&id=CCTV7&type=yy
+CCTV-7,https://migu.188766.xyz/?migutoken=36d0ecaf8aeb75d4f160582f14937473&id=CCTV7&type=yy
 CCTV-8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 CCTV-8,https://migu.188766.xyz/?migutoken=c7f987b203270d0e1c15a52ad27ef4b7&id=CCTV8&type=yy
 CCTV-8,https://live.ottiptv.cc/mcp/cctv8.m3u8?userid=5559462299&sign=fca9be07e71e5130e9ba7b38e0ed5232a516d4544764a5910e590779cd4ee458c1bbb603c32115af3587387b46b2902d17c058b9c5997d30fc5f8f4085ed05916ddb34b0397bb485e7c1555c48&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -454,6 +455,7 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 山西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 山西卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226392/index.m3u8
+山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
 陕西卫视,https://migu.188766.xyz/?migutoken=abe927594e5dc297c576d1bdb418237d&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
 陕西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=3899cd1daaa04f812c6d4b13126e3c00ad177635abc5559f1b596e814ff8eb3d745e7bd40b881206a2852a5ed041ca424112cf1d9b385c72ea9de42c8d86f45227af0f51a8b4f4c18a038a8e6d
